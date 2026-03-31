@@ -30,7 +30,7 @@ Set up professional profiles on GitHub, LinkedIn, and HackerRank. Created a GitH
 ### 🔹 Task 3: Platforms Exploration
 Completed a beginner-level coding problem on HackerRank and created a Google Form quiz on digital literacy awareness.
 
-👉 Google Form Link: [Paste your form link here]
+👉 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScoMK9KzTaJL8risqMyX-HRXbuhM4dcZ21u3rt17JMXMVYaCQ/viewform?usp=dialog
 
 ---
 
