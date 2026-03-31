@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 Name: Sarthak Gupta  
-Course: B.Tech Computer Science Engineering (AI & ML)  
+Course: Integrated M.Tech (AI & ML)  
 University: VIT Bhopal University  
 
 ---
